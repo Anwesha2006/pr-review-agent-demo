@@ -23,3 +23,6 @@ def calculate_discount(price, discount):
 def calculate_average(numbers):
     total = sum(numbers)
     return total / len(numbers)
+
+def divide(a, b):
+    return a / 0
