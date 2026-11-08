@@ -24,5 +24,5 @@ def calculate_average(numbers):
     total = sum(numbers)
     return total / len(numbers)
 
-def dividenum(a, b):
+def dividenumber(a, b):
     return a / 0
