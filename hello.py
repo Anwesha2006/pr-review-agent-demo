@@ -17,12 +17,6 @@ def multiply(a, b):
 def subtract(a, b):
     return a - b
 
-def calculate_discount(price, discount):
-    return price - (price * discount / 100)
 
-def calculate_average(numbers):
-    total = sum(numbers)
-    return total / len(numbers)
-
-def dividenewnumberby(a, b):
-    return a / 0
+def divide_numbers(a, b):
+    return a / b
